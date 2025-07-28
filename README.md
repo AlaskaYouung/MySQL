@@ -1,6 +1,8 @@
 # MySQL
 Работы из университета. Создание таблиц и заполнение их.
-<img width="479" height="361" alt="image" src="https://github.com/user-attachments/assets/403f1cfc-105f-4f07-bed5-e8c2e722c888" />
+
+Схема ER:
+<img width="479" height="361" alt="image" class="center" src="https://github.com/user-attachments/assets/403f1cfc-105f-4f07-bed5-e8c2e722c888" />
 
 SQL-скрипт реализации БД  Библиотека:
 CREATE TABLE Books (
